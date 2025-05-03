@@ -1,0 +1,94 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MeowFix - iPhone 11 Genuine Parts</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(to bottom, #0f0f0f, #1a1a1a);
+            color: #f4f4f4;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #FFD700;
+            color: #000;
+            padding: 40px 20px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 40px 20px;
+        }
+        h1 {
+            font-size: 2.8em;
+            margin-bottom: 10px;
+        }
+        h2 {
+            color: #00FFD1;
+            font-size: 1.8em;
+            margin: 30px 0 15px;
+            border-bottom: 2px solid #00FFD1;
+            padding-bottom: 5px;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            background: #262626;
+            margin-bottom: 10px;
+            padding: 15px 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+        }
+        .note, .link {
+            margin-top: 20px;
+            color: #aaa;
+        }
+        .link a {
+            color: #88f;
+            text-decoration: none;
+        }
+        .link a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            background-color: #FFD700;
+            color: #000;
+            text-align: center;
+            padding: 20px;
+            font-weight: bold;
+            box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MeowFix</h1>
+        <p>Your Trusted Apple Repair Specialist</p>
+    </header>
+    <div class="container">
+        <h2>iPhone 11 Genuine Parts Pricing</h2>
+        <ul>
+            <li><strong>Skrin (LCD):</strong> RM819 (Original) / RM669 (Pre-registered)</li>
+            <li><strong>Bateri:</strong> RM290 (Genuine) / RM428-650 (Servis termasuk)</li>
+            <li><strong>Kamera Belakang:</strong> RM235 (OEM)</li>
+            <li><strong>Papan Induk:</strong> RM750–950 (Servis pembaikan)</li>
+        </ul>
+        <p class="note">* Harga mungkin berbeza mengikut lokasi dan penyedia servis.</p>
+        <p class="link">Untuk maklumat lanjut, layari: <a href="#">www.meowfix.my/iphone11-genuine</a></p>
+    </div>
+    <footer>
+        &copy; 2025 MeowFix. All rights reserved.
+    </footer>
+</body>
+</html>
